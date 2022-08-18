@@ -1,0 +1,82 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+1
+*** Start of Measuring Strings Demo ***
+Type a string (q to quit):
+Programming
+The length of 'Programming' is 11 characters
+Type a string (q to quit):
+q
+*** End of Mesauring Strings Demo ***1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+2
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+Computer
+Type the 2nd string to compare:
+Programming
+'Computer' string is less than 'Programming'
+Type the 1st string to compare (q - to quit):
+1
+Type the 2nd string to compare:
+hello
+'1' string is less than 'hello'
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to double Demo ***
+Type an double numeric string (q - to quit):
+20
+Converted number is 20.000000
+Type an double numeric string (q - to quit):
+hi
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+q
+*** End of converting strings to doule Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+hi,this,is,group,project
+Phrase #1 is 'hi'
+Phrase #2 is 'this'
+Phrase #3 is 'is'
+Phrase #4 is 'group'
+Phrase #5 is 'project'
+Type a few words separated by space (q - to quit):
+hello this is group project
+Phrase #1 is 'hello this is group project'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0

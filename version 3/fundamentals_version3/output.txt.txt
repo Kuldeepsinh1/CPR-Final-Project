@@ -1,0 +1,32 @@
+* Start of Indexing Strings Demo *
+Type not empty string (q - to quit):
+hi i am ayush
+Type the character position within the string:
+gh
+The character found at 0 position is 'h'
+Type not empty string (q - to quit):
+hi hello
+Type the character position within the string:
+3
+The character found at 3 position is 'h'
+Type not empty string (q - to quit):
+q
+* End of Indexing Strings Demo *
+
+* Start of Copying Strings Demo *
+Destination string is reset to empty
+Type the source string (q - to quit):
+hi hello to you
+New destination string is 'hi hello to you'
+Destination string is reset to empty
+Type the source string (q - to quit):
+how are you
+New destination string is 'how are you'
+Destination string is reset to empty
+Type the source string (q - to quit):
+yup!!!
+New destination string is 'yup!!!'
+Destination string is reset to empty
+Type the source string (q - to quit):
+q
+* End of Copying strings Demo *

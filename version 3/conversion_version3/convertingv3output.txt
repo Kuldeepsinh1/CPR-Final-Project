@@ -1,0 +1,41 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to long Demo ***
+Type an long numeric string (q - to quit):
+1
+Converted number is 1
+Type an long numeric string (q - to quit):
+45.777
+Converted number is 45
+Type an long numeric string (q - to quit):
+66788990987778
+Converted number is 2147483647
+Type an long numeric string (q - to quit):
+123kul
+Converted number is 123
+Type an long numeric string (q - to quit):
+kul123
+Converted number is 0
+Type an long numeric string (q - to quit):
+-123kul
+Converted number is -123
+Type an long numeric string (q - to quit):
+q
+*** End of converting strings to doule Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0
+
+C:\Users\AutoLogon\source\repos\Project7\x64\Debug\Project7.exe (process 3560) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

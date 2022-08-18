@@ -1,0 +1,75 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+1
+*** start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+Hello World
+Type the character position within the string:
+4
+The character found at 4 position is 'o'
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+2
+* Start of Concatenating Strings Demo *
+Type the 1st string (q-to quit):
+hello
+Type the 2nd string:
+ world
+Concatenated string is 'hello world'
+Type the 1st string (q-to quit):
+q
+* End of Concatenating Strings Demo *
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit):
+123main
+Converted number is 123
+Type an int numeric string (q - to quit):
+q
+*** End of converting strings to int Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+hello world this is main
+Word #1 is 'hello'
+Word #2 is 'world'
+Word #3 is 'this'
+Word #4 is 'is'
+Word #5 is 'main'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0

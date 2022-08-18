@@ -1,0 +1,31 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+hello world
+Phrase #1 is 'hello world'
+Type a few words separated by space (q - to quit):
+hello,world
+Phrase #1 is 'hello'
+Phrase #2 is 'world'
+Type a few words separated by space (q - to quit):
+777,Jordan,Seneca
+Phrase #1 is '777'
+Phrase #2 is 'Jordan'
+Phrase #3 is 'Seneca'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0

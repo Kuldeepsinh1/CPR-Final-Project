@@ -1,0 +1,25 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by dot(q - to quit):
+hello world. My name is Jordan
+Senetence #1 is 'hello world'
+Senetence #2 is ' My name is Jordan'
+Type a few words separated by dot(q - to quit):
+Today is August 31. 2022. It is a Wednesday
+Senetence #1 is 'Today is August 31'
+Senetence #2 is ' 2022'
+Senetence #3 is ' It is a Wednesday'
+Type a few words separated by dot(q - to quit):
+967.1111
+Senetence #1 is '967'
+Senetence #2 is '1111'
+Type a few words separated by dot(q - to quit):
+This class is CPR101, which is a first year class in my CPA Program
+Senetence #1 is 'This class is CPR101, which is a first year class in my CPA Program'
+Type a few words separated by dot(q - to quit):

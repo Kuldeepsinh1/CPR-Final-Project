@@ -1,0 +1,46 @@
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/converting
+$ git init
+Initialized empty Git repository in C:/Users/AutoLogon/Desktop/converting/.git/
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/converting (master)
+$ git add .
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/converting (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   ConvertingkuldeepsinhV3.xlsx
+        new file:   converting.c
+        new file:   converting.h
+        new file:   convertingv3output.txt
+
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/converting (master)
+$ git commit -m"This is initial commit"
+[master (root-commit) 327ec25] This is initial commit
+ 4 files changed, 116 insertions(+)
+ create mode 100644 ConvertingkuldeepsinhV3.xlsx
+ create mode 100644 converting.c
+ create mode 100644 converting.h
+ create mode 100644 convertingv3output.txt
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/converting (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/converting (master)
+$ git log
+commit 327ec2591f5d9bdabc290872d41b16a5404916aa (HEAD -> master)
+Author: Kuldeepsinh1 <kuldeep.mahida@icloud.com>
+Date:   Wed Aug 17 21:48:24 2022 -0400
+
+    This is initial commit
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/converting (master)
+$

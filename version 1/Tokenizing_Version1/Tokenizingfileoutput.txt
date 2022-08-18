@@ -1,0 +1,27 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+hello world
+Word #1 is 'hello'
+Word #2 is 'world'
+Type a few words separated by space (q - to quit):
+world world
+Word #1 is 'world'
+Word #2 is 'world'
+Type a few words separated by space (q - to quit):
+4 5
+Word #1 is '4'
+Word #2 is '5'
+Type a few words separated by space (q - to quit):
+yourname
+Word #1 is 'yourname'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0

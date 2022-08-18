@@ -1,0 +1,14 @@
+* Start of Concatenating Strings Demo *
+Type the 1st string (q-to quit):
+hello
+Type the 2nd string:
+world
+Concatenated string is 'helloworld'
+Type the 1st string (q-to quit):
+player
+Type the 2nd string:
+2
+Concatenated string is 'player2'
+Type the 1st string (q-to quit):
+q
+* End of Concatenating Strings Demo *

@@ -1,0 +1,19 @@
+patel@Alfred MINGW64 ~/Downloads/Final_project (master)
+$ git log
+commit 3621978ee8dd0060b9cf799a0842a3bfe2572033 (HEAD -> master)
+Author: Vinitkumar Kishorbhai Patel <vpatel279@myseneca.ca>
+Date:   Wed Aug 17 02:36:23 2022 -0400
+
+    v3
+
+commit 39845180ef31fbc00daaff23f908c1abc3a70661
+Author: Vinitkumar Kishorbhai Patel <vpatel279@myseneca.ca>
+Date:   Wed Aug 10 23:30:45 2022 -0400
+
+    v2
+
+commit 4b3577f5738d497b13b2e4cd00f38e5e5a35b0a8
+Author: Vinitkumar Kishorbhai Patel <vpatel279@myseneca.ca>
+Date:   Wed Aug 10 23:26:36 2022 -0400
+
+    v1

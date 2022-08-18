@@ -1,0 +1,14 @@
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+hello
+Type the 2nd string to compare:
+world
+'hello' string is less than 'world'
+Type the 1st string to compare (q - to quit):
+1
+Type the 2nd string to compare:
+hi
+'1' string is less than 'hi'
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***

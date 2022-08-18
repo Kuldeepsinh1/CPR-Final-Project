@@ -1,0 +1,38 @@
+*** start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+Ayush
+Type the character position within the string:
+3
+The character found at 3 position is 's'
+Type not empty string (q - to quit):
+Si mran
+Type the character position within the string:
+2
+The character found at 2 position is ' '
+Type not empty string (q - to quit):
+2436352
+Type the character position within the string:
+4
+The character found at 4 position is '3'
+Type not empty string (q - to quit):
+@#$%^^&
+Type the character position within the string:
+5
+The character found at 5 position is '^'
+Type not empty string (q - to quit):
+
+Type the character position within the string:
+732366934234554925492452954423545234923
+Too big... Position reduced to max. availbale
+The character found at -1 position is '╠'
+Type not empty string (q - to quit):
+Type the character position within the string:
+5
+The character found at 5 position is '4'
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+
+C:\Users\socia\source\repos\cprversion1\x64\Debug\cprversion1.exe (process 47296) exited with code 0.
+Press any key to close this window . . .

@@ -1,0 +1,41 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to double Demo ***
+Type an double numeric string (q - to quit):
+1234kul
+Converted number is 1234.000000
+Type an double numeric string (q - to quit):
+kul1234
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+1234]
+Converted number is 1234.000000
+Type an double numeric string (q - to quit):
+-12345
+Converted number is -12345.000000
+Type an double numeric string (q - to quit):
+9999999999
+Converted number is 9999999999.000000
+Type an double numeric string (q - to quit):
+9999999999999999
+Converted number is 10000000000000000.000000
+Type an double numeric string (q - to quit):
+q
+*** End of converting strings to doule Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0
+
+C:\Users\AutoLogon\source\repos\Project4\x64\Debug\Project4.exe (process 19452) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

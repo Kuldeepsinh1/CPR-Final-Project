@@ -1,0 +1,18 @@
+*** Start of Searching Strings Demo ***
+Type the string (q to quit):
+Hello
+Type the substring:
+l
+'l' found at 2 position
+Type the string (q to quit):
+Hi There
+Type the substring:
+
+' ' found at 2 position
+Type the string (q to quit):
+Welcome to Seneca, to the Computer Principles for Programmers (CP4P) course, and your other courses in the School of Software Design & Data Science (SDDS).
+Type the substring:
+Not found
+Type the string (q to quit):
+q
+*** End of Searching Strings Demo ***
