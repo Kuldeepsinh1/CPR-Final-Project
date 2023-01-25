@@ -1,0 +1,124 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+1
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q - to quit) :
+Kuldeep
+New destination string is 'Kuldeep'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+e
+New destination string is 'e'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+$%R@ffcfsv
+New destination string is '$%R@ffcfsv'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+f
+New destination string is 'f'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+adfkndjnakjngkjsenfd
+New destination string is 'adfkndjnakjngkjsenfd'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+j
+New destination string is 'j'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+q
+*** End of Copying Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+2
+*** Start of Searching Strings Demo ***
+Type the string (q to quit):
+This is our class
+Type the substring:
+
+' ' found at 4 position
+Type the string (q to quit):
+kkghjgjhghjiuuhnLLLL
+Type the substring:
+L
+'L' found at 16 position
+Type the string (q to quit):
+vghvhbvhjhijihigyutyfyuguftrdrtfygtydrdtyvtydrtcytcrtsdrtvyufdrtfuyftrsetrcuydresxtryftyde
+Type the substring:
+Not found
+Type the string (q to quit):
+q
+*** End of Searching Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit):
+-6546551231231
+Converted number is -2147483648
+Type the long numeric string (q - to quit):
+561313245632
+Converted number is 2147483647
+Type the long numeric string (q - to quit):
+6555.1661
+Converted number is 6555
+Type the long numeric string (q - to quit):
+5118151
+Converted number is 5118151
+Type the long numeric string (q - to quit):
+-99951
+Converted number is -99951
+Type the long numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot (q - to quit):
+this is pone sentece. this is second
+Sentence #1 is 'this is pone sentece'
+Sentence #2 is ' this is second'
+Type a few sentences separated by dot (q - to quit):
+the.taj.
+Sentence #1 is 'the'
+Sentence #2 is 'taj'
+Type a few sentences separated by dot (q - to quit):
+ghufytdjh.gyughuhuhyugu.bvjfytfyhbytft.jygyf65fytvyf6.byuvtybyug.
+Sentence #1 is 'ghufytdjh'
+Sentence #2 is 'gyughuhuhyugu'
+Sentence #3 is 'bvjfytfyhbytft'
+Sentence #4 is 'jygyf65fytvyf6'
+Sentence #5 is 'byuvtybyug'
+Type a few sentences separated by dot (q - to quit):
+q
+*** End of Tokenizing Sentences Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0

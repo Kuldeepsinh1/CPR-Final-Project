@@ -25,7 +25,7 @@ void manipulating(void)
 	char* occurrence = NULL;
 	//a pointer occurrence is declared with null value
 
-	do { 
+	do {
 		//do while loop initiated
 
 		printf("Type the string (q to quit):\n");

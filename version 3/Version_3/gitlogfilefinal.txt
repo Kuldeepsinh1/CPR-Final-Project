@@ -1,0 +1,239 @@
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4
+$ pwd
+/c/Users/AutoLogon/Desktop/CPRFinalProject Group4
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4
+$ git init
+Initialized empty Git repository in C:/Users/AutoLogon/Desktop/CPRFinalProject Group4/.git/
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        version 1/
+        version 2/
+        version 3/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4 (master)
+$ git ad --a
+git: 'ad' is not a git command. See 'git --help'.
+
+The most similar commands are
+        add
+        am
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4 (master)
+$ git ad -a
+git: 'ad' is not a git command. See 'git --help'.
+
+The most similar commands are
+        add
+        am
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4 (master)
+$ git add --a
+warning: in the working copy of 'version 1/Manipulation_Version1/manipulating.c', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'version 1/Tokenizing_Version1/tokenizing.c', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'version 1/Version_1/main.c', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'version 2/Tokenizing_version2/tokenizing.c', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'version 2/Version_2/main.c', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'version 3/Tokenizing_Version3/tokenizingv3.c', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'version 3/Version_3/fundamental.c', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'version 3/Version_3/fundamental.h', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'version 3/Version_3/tokenizingv3.c', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'version 3/fundamentals_version3/fundamental.c', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'version 3/fundamentals_version3/fundamental.h', LF will be replaced by CRLF the next time Git touches it
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   version 1/Conversion_Version1/Convertingkuldeepsinh.xlsx
+        new file:   version 1/Conversion_Version1/conversion.c
+        new file:   version 1/Conversion_Version1/conversion.h
+        new file:   version 1/Conversion_Version1/kuldeepsinh'sconvertingfileoutput.txt
+        new file:   version 1/Fundamentals_Version1/fundamentals test.txt
+        new file:   version 1/Fundamentals_Version1/fundamentals.c
+        new file:   version 1/Fundamentals_Version1/fundamentals.h
+        new file:   version 1/Fundamentals_Version1/fundamentals_test_case.xlsx
+        new file:   version 1/Manipulation_Version1/manipulating.c
+        new file:   version 1/Manipulation_Version1/manipulating.h
+        new file:   version 1/Manipulation_Version1/manipulating_testing_.txt
+        new file:   version 1/Manipulation_Version1/module-test-cases(2).xlsx
+        new file:   version 1/Tokenizing_Version1/Tokenizing CPR101 Test Cases.xlsx
+        new file:   version 1/Tokenizing_Version1/Tokenizingfileoutput.txt
+        new file:   version 1/Tokenizing_Version1/tokenizing.c
+        new file:   version 1/Tokenizing_Version1/tokenizing.h
+        new file:   version 1/Version_1/Final-Project-Test-Cases.xlsx
+        new file:   version 1/Version_1/converting.c
+        new file:   version 1/Version_1/converting.h
+        new file:   version 1/Version_1/fundamentals.c
+        new file:   version 1/Version_1/fundamentals.h
+        new file:   version 1/Version_1/main test.txt
+        new file:   version 1/Version_1/main.c
+        new file:   version 1/Version_1/manipulating.c
+        new file:   version 1/Version_1/manipulating.h
+        new file:   version 1/Version_1/tokenizing.c
+        new file:   version 1/Version_1/tokenizing.h
+        new file:   version 2/Tokenizing_version2/Tokenizing CPR101 Test Cases.xlsx
+        new file:   version 2/Tokenizing_version2/TokenizingV2Output.txt
+        new file:   version 2/Tokenizing_version2/tokenizing.c
+        new file:   version 2/Tokenizing_version2/tokenizing.h
+        new file:   version 2/Version_2/Final-Project-Test-Cases (1).xlsx
+        new file:   version 2/Version_2/converting.c
+        new file:   version 2/Version_2/converting.h
+        new file:   version 2/Version_2/fundamentals.c
+        new file:   version 2/Version_2/fundamentals.h
+        new file:   version 2/Version_2/main.c
+        new file:   version 2/Version_2/manipulating.c
+        new file:   version 2/Version_2/manipulating.h
+        new file:   version 2/Version_2/tokenizing.c
+        new file:   version 2/Version_2/tokenizing.h
+        new file:   version 2/Version_2/version_2_output.txt
+        new file:   version 2/conversion_version2/Convertingkuldeepsinh.xlsx
+        new file:   version 2/conversion_version2/converting.c
+        new file:   version 2/conversion_version2/converting.h
+        new file:   version 2/conversion_version2/convertingv2output.txt
+        new file:   version 2/conversion_version2/gittextfile.txt
+        new file:   version 2/manipulating version2/manipulating.c
+        new file:   version 2/manipulating version2/manipulating.h
+        new file:   version 2/manipulating version2/manipulating_git_log.txt
+        new file:   version 2/manipulating version2/manipulating_output_2.txt
+        new file:   version 2/manipulating version2/manipulating_test_cases.xlsx
+        new file:   version 3/Tokenizing_Version3/Tokenizing CPR101 Test Cases.xlsx
+        new file:   version 3/Tokenizing_Version3/tokenizing.h
+        new file:   version 3/Tokenizing_Version3/tokenizingV3FileOutput.txt
+        new file:   version 3/Tokenizing_Version3/tokenizingv3.c
+        new file:   version 3/Version_3/converting.c
+        new file:   version 3/Version_3/converting.h
+        new file:   version 3/Version_3/fundamental.c
+        new file:   version 3/Version_3/fundamental.h
+        new file:   version 3/Version_3/manipulating.c
+        new file:   version 3/Version_3/manipulating.h
+        new file:   version 3/Version_3/tokenizing.h
+        new file:   version 3/Version_3/tokenizingv3.c
+        new file:   version 3/conversion_version3/ConvertingkuldeepsinhV3.xlsx
+        new file:   version 3/conversion_version3/converting.c
+        new file:   version 3/conversion_version3/converting.h
+        new file:   version 3/conversion_version3/convertingv3output.txt
+        new file:   version 3/conversion_version3/gitText.txt
+        new file:   version 3/fundamentals_version3/fundamental.c
+        new file:   version 3/fundamentals_version3/fundamental.h
+        new file:   version 3/fundamentals_version3/output.txt.txt
+        new file:   version 3/fundamentals_version3/test case_V3.xlsx
+        new file:   version 3/manipulating version 3/manipulating.c
+        new file:   version 3/manipulating version 3/manipulating.h
+        new file:   version 3/manipulating version 3/manipulating_git_log.txt
+        new file:   version 3/manipulating version 3/manipulating_test_cases.xlsx
+        new file:   version 3/manipulating version 3/output.txt
+
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4 (master)
+$ git commit -m"This is final Cpr project work"
+[master (root-commit) bfd7f32] This is final Cpr project work
+ 78 files changed, 2571 insertions(+)
+ create mode 100644 version 1/Conversion_Version1/Convertingkuldeepsinh.xlsx
+ create mode 100644 version 1/Conversion_Version1/conversion.c
+ create mode 100644 version 1/Conversion_Version1/conversion.h
+ create mode 100644 version 1/Conversion_Version1/kuldeepsinh'sconvertingfileoutput.txt
+ create mode 100644 version 1/Fundamentals_Version1/fundamentals test.txt
+ create mode 100644 version 1/Fundamentals_Version1/fundamentals.c
+ create mode 100644 version 1/Fundamentals_Version1/fundamentals.h
+ create mode 100644 version 1/Fundamentals_Version1/fundamentals_test_case.xlsx
+ create mode 100644 version 1/Manipulation_Version1/manipulating.c
+ create mode 100644 version 1/Manipulation_Version1/manipulating.h
+ create mode 100644 version 1/Manipulation_Version1/manipulating_testing_.txt
+ create mode 100644 version 1/Manipulation_Version1/module-test-cases(2).xlsx
+ create mode 100644 version 1/Tokenizing_Version1/Tokenizing CPR101 Test Cases.xlsx
+ create mode 100644 version 1/Tokenizing_Version1/Tokenizingfileoutput.txt
+ create mode 100644 version 1/Tokenizing_Version1/tokenizing.c
+ create mode 100644 version 1/Tokenizing_Version1/tokenizing.h
+ create mode 100644 version 1/Version_1/Final-Project-Test-Cases.xlsx
+ create mode 100644 version 1/Version_1/converting.c
+ create mode 100644 version 1/Version_1/converting.h
+ create mode 100644 version 1/Version_1/fundamentals.c
+ create mode 100644 version 1/Version_1/fundamentals.h
+ create mode 100644 version 1/Version_1/main test.txt
+ create mode 100644 version 1/Version_1/main.c
+ create mode 100644 version 1/Version_1/manipulating.c
+ create mode 100644 version 1/Version_1/manipulating.h
+ create mode 100644 version 1/Version_1/tokenizing.c
+ create mode 100644 version 1/Version_1/tokenizing.h
+ create mode 100644 version 2/Tokenizing_version2/Tokenizing CPR101 Test Cases.xlsx
+ create mode 100644 version 2/Tokenizing_version2/TokenizingV2Output.txt
+ create mode 100644 version 2/Tokenizing_version2/tokenizing.c
+ create mode 100644 version 2/Tokenizing_version2/tokenizing.h
+ create mode 100644 version 2/Version_2/Final-Project-Test-Cases (1).xlsx
+ create mode 100644 version 2/Version_2/converting.c
+ create mode 100644 version 2/Version_2/converting.h
+ create mode 100644 version 2/Version_2/fundamentals.c
+ create mode 100644 version 2/Version_2/fundamentals.h
+ create mode 100644 version 2/Version_2/main.c
+ create mode 100644 version 2/Version_2/manipulating.c
+ create mode 100644 version 2/Version_2/manipulating.h
+ create mode 100644 version 2/Version_2/tokenizing.c
+ create mode 100644 version 2/Version_2/tokenizing.h
+ create mode 100644 version 2/Version_2/version_2_output.txt
+ create mode 100644 version 2/conversion_version2/Convertingkuldeepsinh.xlsx
+ create mode 100644 version 2/conversion_version2/converting.c
+ create mode 100644 version 2/conversion_version2/converting.h
+ create mode 100644 version 2/conversion_version2/convertingv2output.txt
+ create mode 100644 version 2/conversion_version2/gittextfile.txt
+ create mode 100644 version 2/manipulating version2/manipulating.c
+ create mode 100644 version 2/manipulating version2/manipulating.h
+ create mode 100644 version 2/manipulating version2/manipulating_git_log.txt
+ create mode 100644 version 2/manipulating version2/manipulating_output_2.txt
+ create mode 100644 version 2/manipulating version2/manipulating_test_cases.xlsx
+ create mode 100644 version 3/Tokenizing_Version3/Tokenizing CPR101 Test Cases.xlsx
+ create mode 100644 version 3/Tokenizing_Version3/tokenizing.h
+ create mode 100644 version 3/Tokenizing_Version3/tokenizingV3FileOutput.txt
+ create mode 100644 version 3/Tokenizing_Version3/tokenizingv3.c
+ create mode 100644 version 3/Version_3/converting.c
+ create mode 100644 version 3/Version_3/converting.h
+ create mode 100644 version 3/Version_3/fundamental.c
+ create mode 100644 version 3/Version_3/fundamental.h
+ create mode 100644 version 3/Version_3/manipulating.c
+ create mode 100644 version 3/Version_3/manipulating.h
+ create mode 100644 version 3/Version_3/tokenizing.h
+ create mode 100644 version 3/Version_3/tokenizingv3.c
+ create mode 100644 version 3/conversion_version3/ConvertingkuldeepsinhV3.xlsx
+ create mode 100644 version 3/conversion_version3/converting.c
+ create mode 100644 version 3/conversion_version3/converting.h
+ create mode 100644 version 3/conversion_version3/convertingv3output.txt
+ create mode 100644 version 3/conversion_version3/gitText.txt
+ create mode 100644 version 3/fundamentals_version3/fundamental.c
+ create mode 100644 version 3/fundamentals_version3/fundamental.h
+ create mode 100644 version 3/fundamentals_version3/output.txt.txt
+ create mode 100644 version 3/fundamentals_version3/test case_V3.xlsx
+ create mode 100644 version 3/manipulating version 3/manipulating.c
+ create mode 100644 version 3/manipulating version 3/manipulating.h
+ create mode 100644 version 3/manipulating version 3/manipulating_git_log.txt
+ create mode 100644 version 3/manipulating version 3/manipulating_test_cases.xlsx
+ create mode 100644 version 3/manipulating version 3/output.txt
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4 (master)
+$ git log
+commit bfd7f3202e018058801ec0abdfddebf4ffd8e7d3 (HEAD -> master)
+Author: kuldeepsinh1 <kuldeep.mahida@icloud.com>
+Date:   Wed Aug 17 23:17:55 2022 -0400
+
+    This is final Cpr project work
+
+AutoLogon@NHLOAN-L-6868 MINGW64 ~/Desktop/CPRFinalProject Group4 (master)
+$
